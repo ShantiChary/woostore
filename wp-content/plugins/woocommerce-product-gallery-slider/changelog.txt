@@ -1,0 +1,70 @@
+*** Product Gallery Slider Changelog ***
+
+2017-04-03 - version 1.4.2
+ * Fix - Update for WC 3.0 compatibility
+
+2015-11-23 - version 1.4.1
+ * Fix - Thumbnails missing alt text
+ * Update Flexslider to latest version
+
+2015-05-28 - version 1.4.0
+ * New - Adds controls to adjust the slideshow speed.
+ * Fix - Ensures the lightbox works correctly on single product screens if the slideshow is enabled.
+ * Fix - Updates FlexSlider to version 2.5.0 (props @jeffikus for FlexSlider 2.5.0).
+
+2014-02-13 - version 1.3.4
+* Fix - when show on product archive pages is off, anchor links were not working
+
+2014-12-05 - version 1.3.3
+* Fix - product archive thumbnails missing anchor tags
+
+2014-08-25 - version 1.3.2
+* Fix - product links on archives.
+* Fix - corrected undefined variable on attachment titles
+* Fix - pull title name from attachment title instead of post title
+
+2014-03-10 - version 1.3.1
+* Fix settings saving in 2.1
+
+2014-01-03 - version 1.3.0
+ * WooCommerce 2.1 compatibility. Now requires WooCommerce 2.0+.
+
+2013-07-12 - version 1.2.2
+ * z-index on sale marker
+
+2013-01-21 - version 1.2.1
+ * Updater
+
+2013-01-21 - version 1.2.0
+ * WC 2.0 Compat
+ * Cloud zoom compat (plugin name changed)
+
+2012-12-17 - version 1.1.5
+ * Fix - thumbnails no longer overlap content when using fade animation style
+
+2012-12-04 - version 1.1.4
+ * New updater
+
+2012-11-27 - version 1.1.3
+ * Fix - Zoom to the correct image on single product page
+
+2012-11-21 - version 1.1.2
+ * Fix - use shop_thumbnail for slider nav
+
+2012-11-21 - version 1.1.1
+ * Added option to display control nav as thumbnails
+ * Fire slider on window load to allow images to load
+ * Fix - image not displaying when there's no gallery
+
+2012-11-07 - version 1.1
+ * Updated FlexSlider to 2.1
+ * Added option to display sliders on product archives
+ * Added slide direction option
+ * Added slideshow option
+ * Minor css tweaks
+
+2012-03-01 - version 1.0.1
+ * Cloud Zoom integration
+
+2011-02-23 - version 1.0
+ * First Release
